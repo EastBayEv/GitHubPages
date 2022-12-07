@@ -6,7 +6,7 @@ Open `tutorial.md` to get started.
 
 <img src="img/1_header.png" style="width:500px">
 
-# BashGitHub - Part of SSDS's Bash Bootcamp 2023
+# GitHubPages - Part of SSDS's Bash Bootcamp 2023
 
 Kickstart your Winter Quarter with SSDS’s Bash Bootcamp!
 
