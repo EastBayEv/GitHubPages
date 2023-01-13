@@ -11,8 +11,8 @@ GitHub Pages allows you to build simple static websites for free!
 7. Edit `index.html`
 8. Usage limits
 9. Open the web-based editor
-10. Set a theme
-Challenge 1: Learn some HTML and CSS
+10. Set a theme  
+Challenge 1: Learn some HTML and CSS  
 Challenge 2: Read the docs
 
 ****
