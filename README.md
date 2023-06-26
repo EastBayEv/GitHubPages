@@ -8,8 +8,6 @@ Open `githubpages_tutorial.md` to get started.
 
 # GitHubPages - Part of SSDS's Bash Bootcamp 2023
 
-Kickstart your Winter Quarter with SSDS’s Bash Bootcamp!
-
 This 4-hour data science project will boost your data science confidence through transferrable skills essential for the modern, data-driven job market.
 
 Here you will learn the basics of the: 1) Bash programming language, 2) SQLite database engine, 3) Git for version control, and 4) free static GitHub Pages.
