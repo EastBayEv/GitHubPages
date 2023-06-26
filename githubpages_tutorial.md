@@ -185,8 +185,8 @@ Change the name that shows in a web browser tab by adding the below code to `_co
 > If you keep the header, you can add a title in the `title` field. Or, set it to `null` to leave it blank. 
 
 ```
-`name: Test site`
-`title: null`
+name: Test site
+title: null
 ```
 
 ****
